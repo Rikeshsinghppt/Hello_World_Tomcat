@@ -8,8 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
-<h1 style="color:blue;"> Version: 1.27 - Running on Ansible server  </h1>
+<h1 style="color:blue;"> Hey, Welcome to my DevOps Project  </h1>
+<h1 style="color:blue;"> Running on Tomcat Server </h1>
 </body>
 </html>
 
